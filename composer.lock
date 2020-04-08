@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "4f086a11e15db365c42e36afd64462b4",
+    "packages": [
+        {
+            "name": "svcphp/s",
+            "version": "0.1.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/svcphp/s.git",
+                "reference": "be40c3c8b6bd665866212519ca37d97ec15e6457"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/svcphp/s/zipball/be40c3c8b6bd665866212519ca37d97ec15e6457",
+                "reference": "be40c3c8b6bd665866212519ca37d97ec15e6457",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "ext-json": "*",
+                "ext-mcrypt": "*",
+                "ext-pdo": "*",
+                "ext-redis": "*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Star",
+                    "email": "star3s@126.com"
+                }
+            ],
+            "time": "2020-04-02T04:01:45+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
+}
