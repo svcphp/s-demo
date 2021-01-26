@@ -1,6 +1,6 @@
 <?php
 
-class cc
+class gateway_aa_bb_Cc
 {
 	static function test($data)
 	{

@@ -1,6 +1,6 @@
 <?php
 
-class name
+class name_Name
 {
 	static function getName($data)
 	{
